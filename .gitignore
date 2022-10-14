@@ -1,16 +1,27 @@
-emoji
-ipykernel
-ipywidgets
-jinja2
-keybert
-matplotlib
-nbformat
-nltk
-numpy
-openpyxl
-pandas
-pattern
-plotly
-scikit-learn
-seaborn
-wordcloud
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
