@@ -1,0 +1,9 @@
+ipykernel
+ipywidgets
+matplotlib
+missingno
+numpy
+pandas
+scikit-learn
+seaborn
+sqlalchemy
